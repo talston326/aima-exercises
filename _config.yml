@@ -6,8 +6,8 @@ permalink:           pretty
 title:               Artificial Intelligence
 tagline:             'AIMA Exercises '
 description:         'AIMA Exercises: Exercises for the book Artificial Intelligence: A Modern Approach'
-url:                 https://aimacode.github.io/aima-exercises/
-baseurl:             '/aima-exercises'
+url: https://aima-exercises.netlify.app
+baseurl: ''
 incremental: true
 # About/contact
 author:
