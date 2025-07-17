@@ -1,4 +1,4 @@
-var requestURL = 'https://raw.githubusercontent.com/aimacode/aima-exercises/master/_site/crossref.json';
+var requestURL = 'https://raw.githubusercontent.com/aimacode/master/_site/crossref.json';
 var request = new XMLHttpRequest();
 request.open('GET', requestURL);
 request.responseType = 'json';

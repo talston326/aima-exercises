@@ -14,6 +14,6 @@ $$
 	\hline  
 \end{array}
 $$
-Use the algorithm in Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/aima-exercises/figures/DTL-algorithm.png">DTL-algorithm</a>
+Use the algorithm in Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/figures/DTL-algorithm.png">DTL-algorithm</a>
 (page <a class="pageRef" title="" href="#">DTL-algorithm</a>) to learn a decision tree for these data. Show the
 computations made to determine the attribute to split at each node.

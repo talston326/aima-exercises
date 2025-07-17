@@ -2,7 +2,7 @@
 
 In this exercise, we examine hill climbing
 in the context of robot navigation, using the environment in
-Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/aima-exercises/figures/geometric-scene-figure.png">geometric-scene-figure</a> as an example.<br>
+Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/figures/geometric-scene-figure.png">geometric-scene-figure</a> as an example.<br>
 
 1.  Repeat Exercise <a class="exerciseRef" href="{{ site.baseurl }}/advanced-search-exercises/ex_11/">path-planning-agent-exercise</a> using
     hill climbing. Does your agent ever get stuck in a local minimum? Is

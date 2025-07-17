@@ -82,7 +82,7 @@
 
   <div class="sidebar-item">
     <p>
-      &copy; 2019. All rights reserved.
+      &copy; 2025. All rights reserved.
     </p>
   </div>
 </div>
@@ -211,7 +211,7 @@ time sequences.<br />
 
 This exercise develops a space-efficient variant of
 the forward–backward algorithm described in
-Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/aima-exercises/figures/forward-backward-algorithm.png">forward-backward-algorithm</a> (page <a class="pageRef" title="" href="#">forward-backward-algorithm</a>).
+Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/figures/forward-backward-algorithm.png">forward-backward-algorithm</a> (page <a class="pageRef" title="" href="#">forward-backward-algorithm</a>).
 We wish to compute $\textbf{P} (\textbf{X}_k|\textbf{e}_{1:t})$ for
 $k=1,\ldots ,t$. This will be done with a divide-and-conquer
 approach.<br />
@@ -286,8 +286,8 @@ generically in Equation (<a class="equationRef" title="" href="#">forward-likel
 <p class="card-text">
 
 Consider the vacuum worlds of
-Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/aima-exercises/figures/vacuum-maze-ch4-figure.png">vacuum-maze-ch4-figure</a> (perfect sensing) and
-Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/aima-exercises/figures/vacuum-maze-hmm2-figure.png">vacuum-maze-hmm2-figure</a> (noisy sensing). Suppose
+Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/figures/vacuum-maze-ch4-figure.png">vacuum-maze-ch4-figure</a> (perfect sensing) and
+Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/figures/vacuum-maze-hmm2-figure.png">vacuum-maze-hmm2-figure</a> (noisy sensing). Suppose
 that the robot receives an observation sequence such that, with perfect
 sensing, there is exactly one possible location it could be in. Is this
 location necessarily the most probable location under noisy sensing for
@@ -416,7 +416,7 @@ if it encounters a wall). Implement this as an HMM and do filtering to
 track the robot. How accurately can we track the robot’s path?
 
 <figure>
-  <img src="https://aimacode.github.io/aima-exercises/figures/switching-kf.svg" alt="switching-kf-figure" id="switching-kf-figure" style="width:100%" />
+  <img src="https://aimacode.github.io/figures/switching-kf.svg" alt="switching-kf-figure" id="switching-kf-figure" style="width:100%" />
   <figcaption><center><b>A Bayesian network representation of a switching Kalman filter. The switching variable $S_t$ is a discrete state variable whose value determines
   the transition model for the continuous state variables $\textbf{X}_t$.
   For any discrete state $\textit{i}$, the transition model
@@ -645,17 +645,17 @@ computation) and analytically.
 
 This exercise analyzes in more detail the
 persistent-failure model for the battery sensor in
-Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/aima-exercises/figures/battery-persistence-figure.png">battery-persistence-figure</a>(a)
+Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/figures/battery-persistence-figure.png">battery-persistence-figure</a>(a)
 (page <a class="pageRef" title="" href="#">battery-persistence-figure</a>).<br />
 
-1.  Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/aima-exercises/figures/battery-persistence-figure.png">battery-persistence-figure</a>(b) stops at
+1.  Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/figures/battery-persistence-figure.png">battery-persistence-figure</a>(b) stops at
     $t=32$. Describe qualitatively what should happen as
     $t\to\infty$ if the sensor continues to read 0.<br />
 
 2.  Suppose that the external temperature affects the battery sensor in
     such a way that transient failures become more likely as
     temperature increases. Show how to augment the DBN structure in
-    Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/aima-exercises/figures/battery-persistence-figure.png">battery-persistence-figure</a>(a), and explain
+    Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/figures/battery-persistence-figure.png">battery-persistence-figure</a>(a), and explain
     any required changes to the CPTs.<br />
 
 3.  Given the new network structure, can battery readings be used by the

@@ -2,7 +2,7 @@
 
 Consider the query
 ${\textbf{P}}({Rain}{{\,|\,}}{Sprinkler}{{\,=\,}}{true},{WetGrass}{{\,=\,}}{true})$
-in Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/aima-exercises/figures/rain-clustering-figure.png">rain-clustering-figure</a>(a)
+in Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/figures/rain-clustering-figure.png">rain-clustering-figure</a>(a)
 (page <a class="pageRef" title="" href="#">rain-clustering-figure</a>) and how Gibbs sampling can answer it.<br>
 
 1.  How many states does the Markov chain have?<br>

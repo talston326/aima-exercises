@@ -1,7 +1,7 @@
 
 
 Consider the variable elimination algorithm in
-Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/aima-exercises/figures/elimination-ask-algorithm.png">elimination-ask-algorithm</a> (page <a class="pageRef" title="" href="#">elimination-ask-algorithm</a>).<br>
+Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/figures/elimination-ask-algorithm.png">elimination-ask-algorithm</a> (page <a class="pageRef" title="" href="#">elimination-ask-algorithm</a>).<br>
 
 1.  Section <a class="sectionRef" title="" href="#">exact-inference-section</a> applies variable
     elimination to the query

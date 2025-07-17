@@ -1,6 +1,6 @@
 
 
-Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/aima-exercises/figures/sussman-anamoly-figure.png">sussman-anomaly-figure</a>
+Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/figures/sussman-anamoly-figure.png">sussman-anomaly-figure</a>
 (page <a class="pageRef" title="" href="#">sussman-anomaly-figure</a>) shows a blocks-world problem that is known as the {Sussman anomaly}.
 The problem was considered anomalous because the noninterleaved planners
 of the early 1970s could not solve it. Write a definition of the problem

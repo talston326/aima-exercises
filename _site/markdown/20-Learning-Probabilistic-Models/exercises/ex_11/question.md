@@ -1,7 +1,7 @@
 
 
 Consider the application of EM to learn the parameters for the network
-in Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/aima-exercises/figures/mixture-networks-figure.png">mixture-networks-figure</a>(a), given the true
+in Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/figures/mixture-networks-figure.png">mixture-networks-figure</a>(a), given the true
 parameters in Equation (<a class="equationRef" title="" href="#">candy-true-equation</a>).
 
 1.  Explain why the EM algorithm would not work if there were just two

@@ -28,7 +28,7 @@ Consider the Bayes net shown in Figure <a class="insideExercisesFigRef" href="#
     $P={PresidentialPardon}$ to the network; draw the new
     network and briefly explain any links you add.<br>
 <figure>
-  <img src="https://aimacode.github.io/aima-exercises/figures/politics.svg" alt="politics-figure" id="politics-figure" style="width:100%">
+  <img src="https://aimacode.github.io/figures/politics.svg" alt="politics-figure" id="politics-figure" style="width:100%">
   <figcaption><center><b>A simple Bayes net with
   Boolean variables B = {BrokeElectionLaw}, I = {Indicted}, M = {PoliticallyMotivatedProsecutor}, G= {FoundGuilty}, J = {Jailed}.</b></center></figcaption>
 </figure>

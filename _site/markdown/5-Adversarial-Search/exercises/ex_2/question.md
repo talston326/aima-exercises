@@ -19,6 +19,6 @@ Consider the problem of solving two 8-puzzles.<br>
 node <b>b</b> and the evader $E$ is at node <b>d</b> <br>(b) A partial game tree for this map.
 Each node is labeled with the $P,E$ positions. $P$ moves first. Branches marked "?" have yet to be explored.
 <figure>
-  <img src="https://aimacode.github.io/aima-exercises/figures/pursuit-evasion-game.svg" alt="pursuit-evasion-game-figure" id="pursuit-evasion-game-figure" style="width:100%">
+  <img src="https://aimacode.github.io/figures/pursuit-evasion-game.svg" alt="pursuit-evasion-game-figure" id="pursuit-evasion-game-figure" style="width:100%">
   <figcaption><center><b>Pursuit evasion game Figure</b></center></figcaption>
 </figure>
